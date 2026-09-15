@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/jdthgp27/reto1-bi-odisea-data/main/outputs/scr
 
 Gráfico de barras: Distribución de ofertas de empleo tech activas en tiempo real.
 
-https://raw.githubusercontent.com/jdthgp27/reto1-bi-odisea-data/main/outputs/screenshots/tendenciasdetrabajoremoto%.png
+https://raw.githubusercontent.com/jdthgp27/reto1-bi-odisea-data/main/outputs/screenshots/tendenciasdetrabajoremoto.png
 
 🔗 Dashboard Interactivo
 Accede al tablero completo en Looker Studio con filtros dinámicos y actualización automática:
