@@ -6,13 +6,6 @@
 ##  Objetivo del Proyecto
 Crear un tablero de Business Intelligence que integre múltiples fuentes de datos heterogéneas (CSV histórico y APIs web en tiempo real) para analizar salarios, demanda tecnológica y tendencias de trabajo remoto en el sector tech durante 2024.
 
-![Dataset Maestro](outputs/screenchots/Dataset.png)
-
-![Salario vs Demanda](outputs/screenchots/salariovsdemanda.png)
-
-![Tendencias Trabajo Remoto](outputs/screenchots/tendenciasdetrabajoremoto%.png
-)
-
 
 ## ️ Stack Tecnológico
 - **Lenguaje:** Python 3.10+
@@ -77,23 +70,23 @@ Resultados Clave
 Dataset Maestro Integrado
 Se fusionaron 3 fuentes heterogéneas en un único dataset de 6 categorías tecnológicas y 14 métricas:
 
-https://raw.githubusercontent.com/jdthgp27/reto1-bi-odisea-data/main/outputs/screenchots/Dataset.png
+outputs/screenchots/Dataset.png
 
-![Dataset Maestro](outputs/screenchots/Dataset.png)
+
 
 Visualizaciones Principales
 
 Gráfico de dispersión: Equilibrio entre salario promedio e índice de demanda del mercado.
 
-https://raw.githubusercontent.com/jdthgp27/reto1-bi-odisea-data/main/outputs/screenchots/salariovsdemanda.png
+outputs/screenchots/salariovsdemanda.png
 
-![Salario vs Demanda](outputs/screenchots/salariovsdemanda.png)
+
 
 Gráfico de barras: Distribución de ofertas de empleo tech activas en tiempo real.
 
-https://raw.githubusercontent.com/jdthgp27/reto1-bi-odisea-data/main/outputs/screenchots/tendenciastrabajoremoto%.png
+outputs/screenchots/tendenciasdetrabajoremoto%.png
 
-![Tendencias Trabajo Remoto](outputs/screenchots/tendenciastrabajoremoto%.png)
+
 
 🔗 Dashboard Interactivo
 
