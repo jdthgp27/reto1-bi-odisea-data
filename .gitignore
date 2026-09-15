@@ -1,0 +1,89 @@
+# ============================================
+# VARIABLES DE ENTORNO (SENSIBLES)
+# ============================================
+.env
+.env.local
+.env.*
+
+# ============================================
+# DATOS PESADOS (NO SUBIR A GITHUB)
+# ============================================
+01_data/raw/*.csv
+01_data/raw/*.json
+01_data/raw/*.zip
+01_data/processed/*.csv
+01_data/processed/*.parquet
+
+# Mantener las carpetas vacías en Git
+!01_data/raw/.gitkeep
+!01_data/processed/.gitkeep
+
+# ============================================
+# PYTHON
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ============================================
+# IDE Y EDITORES
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# ============================================
+# SISTEMA OPERATIVO
+# ============================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ============================================
+# LOGS Y TEMPORALES
+# ============================================
+*.log
+logs/
+tmp/
+temp/
+
+# ============================================
+# JUPYTER NOTEBOOKS
+# ============================================
+.ipynb_checkpoints/
+*.ipynb
+
+# ============================================
+# DASHBOARDS EXPORTADOS (PESADOS)
+# ============================================
+03_dashboards/exports/*.pdf
+03_dashboards/exports/*.png
