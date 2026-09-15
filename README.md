@@ -10,7 +10,8 @@ Crear un tablero de Business Intelligence que integre múltiples fuentes de dato
 
 ![Salario vs Demanda](outputs/screenchots/salariovsdemanda.png)
 
-![Tendencias Trabajo Remoto](outputs/screenchots/tendenciastrabajoremoto%.png)
+![Tendencias Trabajo Remoto](outputs/screenchots/tendenciasdetrabajoremoto%.png
+)
 
 
 ## ️ Stack Tecnológico
