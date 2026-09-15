@@ -6,6 +6,13 @@
 ##  Objetivo del Proyecto
 Crear un tablero de Business Intelligence que integre múltiples fuentes de datos heterogéneas (CSV histórico y APIs web en tiempo real) para analizar salarios, demanda tecnológica y tendencias de trabajo remoto en el sector tech durante 2024.
 
+![Dataset Maestro](outputs/screenchots/Dataset.png)
+
+![Salario vs Demanda](outputs/screenchots/salariovsdemanda.png)
+
+![Tendencias Trabajo Remoto](outputs/screenchots/tendenciastrabajoremoto%.png)
+
+
 ## ️ Stack Tecnológico
 - **Lenguaje:** Python 3.10+
 - **ETL & Datos:** Pandas, NumPy, Requests, Loguru
@@ -30,6 +37,7 @@ reto1-bi-odisea-data/
 ├── reports/              # Informes técnicos y estructura de presentación
 ── dashboards/           # Enlaces públicos al dashboard de Looker Studio
 
+
 Cómo Ejecutar el Pipeline ETL
 1. Requisitos Previos
 Python 3.10 o superior
@@ -38,7 +46,7 @@ Conexión a internet activa (para llamadas a APIs)
 
 2. Instalación
 
-git clone https://github.com/TU_USUARIO/reto1-bi-odisea-data.git
+git clone https://github.com/jdthgp27/reto1-bi-odisea-data.git
 cd reto1-bi-odisea-data
 python -m venv venv
 source venv/Scripts/activate  # Windows: venv\Scripts\activate
