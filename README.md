@@ -68,17 +68,23 @@ Resultados Clave
 Dataset Maestro Integrado
 Se fusionaron 3 fuentes heterogéneas en un único dataset de 6 categorías tecnológicas y 14 métricas:
 
-https://raw.githubusercontent.com/jdthgp27/reto1-bi-odisea-data/main/outputs/screenshots/Dataset.png
+https://raw.githubusercontent.com/jdthgp27/reto1-bi-odisea-data/main/outputs/screenchots/Dataset.png
+
+![Dataset Maestro](outputs/screenchots/Dataset.png)
 
 Visualizaciones Principales
 
 Gráfico de dispersión: Equilibrio entre salario promedio e índice de demanda del mercado.
 
-https://raw.githubusercontent.com/jdthgp27/reto1-bi-odisea-data/main/outputs/screenshots/salariovsdemanda.png
+https://raw.githubusercontent.com/jdthgp27/reto1-bi-odisea-data/main/outputs/screenchots/salariovsdemanda.png
+
+![Salario vs Demanda](outputs/screenchots/salariovsdemanda.png)
 
 Gráfico de barras: Distribución de ofertas de empleo tech activas en tiempo real.
 
-https://raw.githubusercontent.com/jdthgp27/reto1-bi-odisea-data/main/outputs/screenshots/tendenciastrabajoremoto%.png
+https://raw.githubusercontent.com/jdthgp27/reto1-bi-odisea-data/main/outputs/screenchots/tendenciastrabajoremoto%.png
+
+![Tendencias Trabajo Remoto](outputs/screenchots/tendenciastrabajoremoto%.png)
 
 🔗 Dashboard Interactivo
 
