@@ -4,6 +4,7 @@
 .env
 .env.local
 .env.*
+!.env.example
 
 # ============================================
 # DATOS PESADOS (NO SUBIR A GITHUB)
